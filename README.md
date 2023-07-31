@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pierre le floch
-- 👀 I’m interested in Bioinformatics
-- 🌱 I know Python and I’m currently learning Java and C++
-- 💞️ I’m looking to collaborate on genetic dna projects
+- 👀 I’m interested in AI
+- 🌱 I know Python and C
 - 📫 You can reach me byt this email : plefloch123@gmailcom
 
 <!---
