@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pierre le floch
 - 👀 I’m interested in AI
 - 🌱 I know Python and C
-- 📫 You can reach me byt this email : plefloch123@gmailcom
+- 📫 You can reach me by this email : plefloch123@gmailcom
 
 <!---
 plefloch123/plefloch123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
