@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pierre le floch
 - 🎓 I’m a PhD student in applying AI to healthcare (AI4Health)
-- 🌱 I know Python, Java and C
+- 🌱 I know Python, R, Java and C
 - 📫 You can reach me by this email : pierre.lefloch02@gmail.com
 
 <!---
